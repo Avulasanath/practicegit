@@ -7,3 +7,5 @@ vbnm
  technologies
  maven
  gradle
+ public string name
+ public string numnber
